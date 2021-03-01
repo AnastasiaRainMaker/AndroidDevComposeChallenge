@@ -38,6 +38,7 @@ subprojects {
     repositories {
         google()
         jcenter()
+        maven { url 'https://androidx.dev/snapshots/builds/7166224/artifacts/repository' }
     }
 
     apply plugin: 'com.diffplug.spotless'
