@@ -1,15 +1,15 @@
-# Put title of your app here
+# AndroidDevChallenge
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/AnastasiaRainMaker/AndroidDevComposeChallenge/workflows/Check/badge.svg)
 
 
-## :scroll: Description
+## :scroll: A puppy adoption app using Jetpack Compose for UI combining it with the BottomSheetDialogFragment
 <!--- Describe your app in one or two sentences -->
 
 
-## :bulb: Motivation and Context
+## :bulb: I am proud of making BottomSheetDialogFragment work cause it required some research and using -SNAPSHOT version of androidx fragments library
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 
